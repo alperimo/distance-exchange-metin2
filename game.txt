@@ -1,0 +1,8 @@
+UZAKTAN_TICARET	%s adlý oyuncu senin ile ticaret yapmak istiyor?
+UZAKTAN_TICARET_TITLE	%s adlý oyuncuyla ticaret
+UZAKTAN_TICARET_RAKIP_TICARETTE	Oyuncu þuanda ticarette.
+UZAKTAN_TICARET_YAPAMAZ	Bu kiþi þuanda ticaret tekliflerini reddediyor.
+UZAKTAN_TICARET_FARKLIKANAL_YAPAMAZ	%s adlý oyuncu senle ayný kanalda olmadýðý için ticaret yapamazsýn.
+UZAKTAN_TICARET_BEKLEMENGEREK	Tekrar Ticaret yapmak için biraz beklemen gerekli.
+UZAKTAN_TICARET_BASARISIZ	Böyle bir oyuncu yok veya þuanda açýk deðil.
+UZAKTAN_TICARET_RED	%s adlý uzaktan ticaret teklifini reddetti.
